@@ -17,3 +17,6 @@ A DOCUMENTATION AND DEMO SHOWCASING INTEROPERABILITY BETWEEN THE PLATFORMS
 
 Here are the Documentation and demo video on multi-cloud architecture :
 
+DOCUMENTATION ON MULTI CLOUD ARCHITECTURE :
+
+[Interoperability-in-multi-cloud-computing-architecture.pdf](https://github.com/user-attachments/files/18533460/Interoperability-in-multi-cloud-computing-architecture.pdf)
