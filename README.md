@@ -15,7 +15,7 @@ DELIVERABLE:
 
 A DOCUMENTATION AND DEMO SHOWCASING INTEROPERABILITY BETWEEN THE PLATFORMS
 
-Here are the Documentation and demo video on multi-cloud architecture :
+Here are the Documentation and demo on multi-cloud architecture :
 
 DOCUMENTATION ON MULTI CLOUD ARCHITECTURE :
 
